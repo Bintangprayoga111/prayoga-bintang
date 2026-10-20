@@ -1,0 +1,18 @@
+body{
+    font-family: Arial, Helvetica, sans-serif,16px/28px;
+    background-color: lightskyblue;
+    color: blue;
+    background-image:url(gambar/bg.jpg)
+}
+.header .judul{
+    font-size: 20px;
+    font-weight: bold;
+}
+.header ul li{
+    display: inline-block;
+    margin-top: 20px;
+    margin-right: 5px;
+}
+. header a{
+    
+}
